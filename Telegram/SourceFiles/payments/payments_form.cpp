@@ -878,7 +878,7 @@ void Form::validateCard(
 	}
 	auto configuration = Stripe::PaymentConfiguration{
 		.publishableKey = method.publishableKey,
-		.companyName = "Teamgram",
+		.companyName = "IMTT",
 	};
 	_stripe = std::make_unique<Stripe::APIClient>(std::move(configuration));
 	auto card = Stripe::CardParams{

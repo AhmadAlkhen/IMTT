@@ -65,7 +65,7 @@ bool UrlRequiresConfirmation(const QUrl &url) {
 
 	return !regex_match(
 		"(^|\\.)("
-		"teamgram\\.(org|me|dog)"
+		"im\\.(org|tt|dog)"
 		"|t\\.me"
 		"|te\\.?legra\\.ph"
 		"|graph\\.org"

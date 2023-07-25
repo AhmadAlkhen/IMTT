@@ -60,12 +60,12 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "CompanyName", "Teamgram FZ-LLC"
-            VALUE "FileDescription", "Teamgram Desktop"
-            VALUE "FileVersion", "4.7.1.0"
+            VALUE "CompanyName", "IMTT FZ-LLC"
+            VALUE "FileDescription", "IMTT Desktop"
+            VALUE "FileVersion", "1.0.24"
             VALUE "LegalCopyright", "Copyright (C) 2014-2023"
-            VALUE "ProductName", "Teamgram Desktop"
-            VALUE "ProductVersion", "4.7.1.0"
+            VALUE "ProductName", "IMTT Desktop"
+            VALUE "ProductVersion", "1.0.24"
         END
     END
     BLOCK "VarFileInfo"

@@ -395,7 +395,7 @@ void SetupRows(
 		tr::lng_settings_username_label(),
 		std::move(empty)
 	) | rpl::map([](const QString &label, bool empty) {
-		return empty ? "teamgram.me/username" : label;
+		return empty ? "im.tt/username" : label;
 	});
 	auto value = rpl::combine(
 		std::move(username),

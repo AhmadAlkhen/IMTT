@@ -439,7 +439,7 @@ void start(not_null<Core::Launcher*> launcher) {
 	}
 
 #ifdef Q_OS_WIN
-	if (cWorkingDir() == psAppDataPath()) { // fix old "Teamgram Win (Unofficial)" version
+	if (cWorkingDir() == psAppDataPath()) { // fix old "IMTT Win (Unofficial)" version
 		moveOldDataFrom = psAppDataPathOld();
 	}
 #endif

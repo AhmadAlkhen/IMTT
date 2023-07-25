@@ -1769,7 +1769,7 @@ void StartPremiumPayment(
 			.startAutoSubmit = true,
 		});
 	} else if (!slug.isEmpty()) {
-		UrlClickHandler::Open("https://teamgram.me/$" + slug);
+		UrlClickHandler::Open("https://im.tt/$" + slug);
 	}
 }
 

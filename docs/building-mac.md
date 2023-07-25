@@ -18,7 +18,7 @@ Go to ***BuildPath*** and run
     git config --global user.email "email@example.com"
     sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
     git 
-    sudo git clone --recursive https://github.com/teamgram/teamgram-tdesktop.git tdesktop
+    sudo git clone --recursive https://github.com/imtt/imtt-tdesktop.git tdesktop
     ./tdesktop/Telegram/build/prepare/mac.sh
 
 ### Building the project

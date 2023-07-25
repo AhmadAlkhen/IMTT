@@ -459,8 +459,8 @@ void AutostartToggle(bool enabled, Fn<void(bool)> done) {
 		silent,
 		FOLDERID_Startup,
 		L"-autostart",
-		L"Teamgram autorun link.\n"
-		"You can disable autorun in Teamgram settings.");
+		L"IMTT autorun link.\n"
+		"You can disable autorun in IMTT settings.");
 	if (done) {
 		done(enabled && success);
 	}
@@ -663,8 +663,8 @@ void psSendToMenu(bool send, bool silent) {
 		silent,
 		FOLDERID_SendTo,
 		L"-sendpath",
-		L"Teamgram send to link.\n"
-		"You can disable send to menu item in Teamgram settings.");
+		L"IMTT send to link.\n"
+		"You can disable send to menu item in IMTT settings.");
 }
 
 bool psLaunchMaps(const Data::LocationPoint &point) {

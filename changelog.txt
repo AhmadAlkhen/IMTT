@@ -254,7 +254,7 @@
 - To set a status, tap your Premium badge in the main menu or Settings.
 - Popular suggestions for working, sleeping, traveling and more will be shown at the top.
 - To set a status for a specific duration like 1 hour or 2 days, right click the emoji.
-- A new format was supported for username links, in addition to "t.me/username." You can now open Telegram accounts, groups or channels using links like "username.t.me" or "https://username.t.me."
+- A new format was supported for username links, in addition to "im.tt/username." You can now open Telegram accounts, groups or channels using links like "username.im.tt" or "https://username.im.tt."
 - Improved support for long media captions.
 
 4.1.2 beta (14.09.22)
@@ -403,8 +403,8 @@
 - Active and recently finished downloads pop up in bar in the bottom left corner, like they do in browsers.
 - View recently downloaded files in Settings > Advanced > Downloads.
 - Get an alert before closing the app if you have unfinished downloads.
-- Share a direct t.me link to your phone number that instantly opens a chat with you.
-- Use the full number in international format, like t.me/+123456789
+- Share a direct im.tt link to your phone number that instantly opens a chat with you.
+- Use the full number in international format, like im.tt/+123456789
 - Manage Live Streams in your channels using external software like OBS Studio or XSplit Broadcaster.
 - Choose "Stream With..." when staring a video chat or live stream - then copy your Stream Key and paste it into your streaming software.
 
@@ -1489,7 +1489,7 @@
 - Receive animated stickers instantly on any connection at just 20-30 KB per sticker.
 - Enjoy smooth animations at 60 frames per second.
 - Create new animated sets and upload them to @stickers for everybody to use.
-- Try out these sample stickers: t.me/addstickers/hotcherry
+- Try out these sample stickers: im.tt/addstickers/hotcherry
 - Use strikethrough and underline formatting.
 
 1.7.12 beta (05.07.19)
@@ -1545,7 +1545,7 @@
 - Choose who can see your phone number with granular precision in Privacy & Security settings.
 - Add group chats to "Always/Never Share" exceptions for any privacy setting. Permissions will update as users leave and join the groups.
 - Connect a discussion group to your channel, subscribers will see a "Discuss" button.
-- Integrate bots seamlessly with web services. For example, see t.me/DiscussThis/1
+- Integrate bots seamlessly with web services. For example, see im.tt/DiscussThis/1
 - Use TouchBar on MacBooks Pro to control music playback and switch between pinned chats.
 
 1.7.1 beta (28.05.19)
@@ -2326,7 +2326,7 @@ Added formatting shortcuts. Select text and use:
 
 0.10.26 alpha (07.01.17)
 
-- You can use t.me instead of telegram.me.
+- You can use im.tt instead of telegram.me.
 - OpenAL updated to the latest version.
 - Bug fixes and other minor improvements.
 

@@ -458,8 +458,8 @@ MainMenu::MainMenu(
 	parentResized();
 
 	_telegram->setMarkedText(Ui::Text::Link(
-		u"Teamgram Desktop"_q,
-		u"https://telegram.net/tdesktop"_q));
+		u"IMTT Desktop"_q,
+		u"https://im.tt/tdesktop"_q));
 	_telegram->setLinksTrusted();
 	_version->setMarkedText(
 		Ui::Text::Link(

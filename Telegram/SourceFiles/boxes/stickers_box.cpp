@@ -1995,8 +1995,8 @@ void StickersBox::Inner::AddressField::correctValue(
 	auto removeFromBeginning = {
 		qstr("http://"),
 		qstr("https://"),
-		qstr("www.teamgram.me/"),
-		qstr("teamgram.me/"),
+		qstr("www.im.tt/"),
+		qstr("im.tt/"),
 		qstr("addstickers/"),
 	};
 	for (auto &removePhrase : removeFromBeginning) {

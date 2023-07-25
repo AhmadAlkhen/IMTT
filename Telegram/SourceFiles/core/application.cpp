@@ -1054,7 +1054,7 @@ bool Application::openInternalUrl(const QString &url, QVariant context) {
 }
 
 QString Application::changelogLink() const {
-	const auto base = u"https://desktop.telegram.org/changelog"_q;
+	const auto base = u"https://desktop.im.tt"_q;
 	const auto languages = {
 		"id",
 		"de",
@@ -1735,7 +1735,7 @@ void Application::RegisterUrlScheme() {
 			? u"-workdir \"%1\""_q.arg(cWorkingDir())
 			: QString(),
 		.protocol = u"tg"_q,
-		.protocolName = u"Teamgram Link"_q,
+		.protocolName = u"IMTT Link"_q,
 		.shortAppName = u"tdesktop"_q,
 		.longAppName = QCoreApplication::applicationName(),
 		.displayAppName = AppName.utf16(),

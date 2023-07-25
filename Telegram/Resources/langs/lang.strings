@@ -21,10 +21,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_disable_notifications_from_tray" = "Disable notifications";
 "lng_enable_notifications_from_tray" = "Enable notifications";
-"lng_open_from_tray" = "Open Teamgram";
+"lng_open_from_tray" = "Open IMTT";
 "lng_minimize_to_tray" = "Minimize to tray";
-"lng_quit_from_tray" = "Quit Teamgram";
-"lng_tray_icon_text" = "Teamgram is still running here,\nyou can change this from settings page.\nIf this icon disappears from tray menu,\nyou can drag it here from hidden icons.";
+"lng_quit_from_tray" = "Quit IMTT";
+"lng_tray_icon_text" = "IMTT is still running here,\nyou can change this from settings page.\nIf this icon disappears from tray menu,\nyou can drag it here from hidden icons.";
 
 // For lng_month_year or plain month name.
 "lng_month1" = "January";
@@ -168,8 +168,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channels_limit_title" = "Too Many Communities";
 "lng_channels_limit1#one" = "You are a member of **{count}** groups and channels.";
 "lng_channels_limit1#other" = "You are a member of **{count}** groups and channels.";
-"lng_channels_limit2#one" = "Please leave some before joining a new one - or upgrade to **Teamgram Premium** to double the limit to **{count}** groups and channels.";
-"lng_channels_limit2#other" = "Please leave some before joining a new one - or upgrade to **Teamgram Premium** to double the limit to **{count}** groups and channels.";
+"lng_channels_limit2#one" = "Please leave some before joining a new one - or upgrade to **IMTT Premium** to double the limit to **{count}** groups and channels.";
+"lng_channels_limit2#other" = "Please leave some before joining a new one - or upgrade to **IMTT Premium** to double the limit to **{count}** groups and channels.";
 "lng_channels_limit2_final" = "Please leave some before joining a new one.";
 "lng_channels_leave_title" = "Least active communities";
 "lng_channels_leave_status" = "{type}, inactive {time}";
@@ -180,28 +180,28 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_links_limit_title" = "Too Many Public Links";
 "lng_links_limit1#one" = "You have reserved **{count}** public link.";
 "lng_links_limit1#other" = "You have reserved **{count}** public links.";
-"lng_links_limit2#one" = "Try revoking the link from an older group or channel, or upgrade to **Teamgram Premium** to double the limit to **{count}** public link.";
-"lng_links_limit2#other" = "Try revoking the link from an older group or channel, or upgrade to **Teamgram Premium** to double the limit to **{count}** public links.";
+"lng_links_limit2#one" = "Try revoking the link from an older group or channel, or upgrade to **IMTT Premium** to double the limit to **{count}** public link.";
+"lng_links_limit2#other" = "Try revoking the link from an older group or channel, or upgrade to **IMTT Premium** to double the limit to **{count}** public links.";
 "lng_links_limit2_final" = "Try revoking the link from an older group or channel";
 "lng_links_revoke_title" = "Your public communities";
 
 "lng_filter_chats_limit_title" = "Limit Reached";
 "lng_filter_chats_limit1#one" = "Sorry, you can't add more than **{count}** chat to a folder.";
 "lng_filter_chats_limit1#other" = "Sorry, you can't add more than **{count}** chats to a folder.";
-"lng_filter_chats_limit2#one" = "You can increase this limit to **{count}** by upgrading to **Teamgram Premium**.";
-"lng_filter_chats_limit2#other" = "You can increase this limit to **{count}** by upgrading to **Teamgram Premium**.";
+"lng_filter_chats_limit2#one" = "You can increase this limit to **{count}** by upgrading to **IMTT Premium**.";
+"lng_filter_chats_limit2#other" = "You can increase this limit to **{count}** by upgrading to **IMTT Premium**.";
 
 "lng_filters_limit_title" = "Limit Reached";
 "lng_filters_limit1#one" = "You have reached the limit of **{count}** folder.";
 "lng_filters_limit1#other" = "You have reached the limit of **{count}** folders.";
-"lng_filters_limit2#one" = "You can double the limit to **{count}** folder by subscribing to **Teamgram Premium**.";
-"lng_filters_limit2#other" = "You can double the limit to **{count}** folders by subscribing to **Teamgram Premium**.";
+"lng_filters_limit2#one" = "You can double the limit to **{count}** folder by subscribing to **IMTT Premium**.";
+"lng_filters_limit2#other" = "You can double the limit to **{count}** folders by subscribing to **IMTT Premium**.";
 
 "lng_filter_pin_limit_title" = "Limit Reached";
 "lng_filter_pin_limit1#one" = "Sorry, you can't pin more than **{count}** chat to the top.";
 "lng_filter_pin_limit1#other" = "Sorry, you can't pin more than **{count}** chats to the top.";
-"lng_filter_pin_limit2#one" = "Unpin some of the currently pinned ones or subscribe to **Teamgram Premium** to double the limit to **{count}** chat.";
-"lng_filter_pin_limit2#other" = "Unpin some of the currently pinned ones or subscribe to **Teamgram Premium** to double the limit to **{count}** chats.";
+"lng_filter_pin_limit2#one" = "Unpin some of the currently pinned ones or subscribe to **IMTT Premium** to double the limit to **{count}** chat.";
+"lng_filter_pin_limit2#other" = "Unpin some of the currently pinned ones or subscribe to **IMTT Premium** to double the limit to **{count}** chats.";
 
 "lng_forum_pin_limit#one" = "Sorry, you can't pin more than **{count}** topic to the top.";
 "lng_forum_pin_limit#other" = "Sorry, you can't pin more than **{count}** topics to the top.";
@@ -221,8 +221,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_caption_limit_title" = "Limit Reached";
 "lng_caption_limit1#one" = "Sorry, you can't use more than **{count}** character in media captions.";
 "lng_caption_limit1#other" = "Sorry, you can't use more than **{count}** characters in media captions.";
-"lng_caption_limit2#one" = "Make the caption shorter or subscribe to **Teamgram Premium** to double the limit to **{count}** character.";
-"lng_caption_limit2#other" = "Make the caption shorter or subscribe to **Teamgram Premium** to double the limit to **{count}** characters.";
+"lng_caption_limit2#one" = "Make the caption shorter or subscribe to **IMTT Premium** to double the limit to **{count}** character.";
+"lng_caption_limit2#other" = "Make the caption shorter or subscribe to **IMTT Premium** to double the limit to **{count}** characters.";
 "lng_caption_limit_reached#one" = "You've reached the media caption limit. Please make the caption shorter by {count} character.";
 "lng_caption_limit_reached#other" = "You've reached the media caption limit. Please make the caption shorter by {count} characters.";
 
@@ -230,20 +230,20 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_file_size_limit#one" = "{count} Gb";
 "lng_file_size_limit#other" = "{count} Gb";
 "lng_file_size_limit1" = "The document can't be sent, because it is larger than {size}.";
-"lng_file_size_limit2" = "You can double this limit to {size} per document by subscribing to **Teamgram Premium**.";
+"lng_file_size_limit2" = "You can double this limit to {size} per document by subscribing to **IMTT Premium**.";
 
 "lng_limits_increase" = "Increase Limit";
 
 "lng_sticker_premium_text" = "This pack contains premium stickers like this one.";
 "lng_sticker_premium_view" = "View";
-"lng_animated_emoji_text" = "Subscribe to **Teamgram Premium** to unlock this emoji.";
+"lng_animated_emoji_text" = "Subscribe to **IMTT Premium** to unlock this emoji.";
 "lng_animated_emoji_saved" = "Try sending these emoji in **Saved Messages** for free to test.";
 "lng_animated_emoji_saved_open" = "Open";
 
 "lng_flood_error" = "Too many tries. Please try again later.";
 "lng_edit_error" = "You cannot edit this message";
 "lng_error_phone_flood" = "Sorry, you have deleted and re-created your account too many times recently. Please wait for a few days before signing up again.";
-"lng_error_start_minimized_passcoded" = "You have set a local passcode, so Teamgram Desktop can't be launched minimised; it will ask you to enter your passcode before it can start working.";
+"lng_error_start_minimized_passcoded" = "You have set a local passcode, so IMTT Desktop can't be launched minimised; it will ask you to enter your passcode before it can start working.";
 "lng_error_public_groups_denied" = "Unfortunately, you were banned from participating in public groups.\n{more_info}";
 "lng_error_cant_add_member" = "Sorry, you can't add the bot to this group. Ask a group admin to do it.";
 "lng_error_cant_add_bot" = "Sorry, this bot can't be added to groups.";
@@ -264,7 +264,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sure_enable_socks" = "Are you sure you want to enable this proxy?\n\nServer: {server}\nPort: {port}\n\nYou can change your proxy server later in the Settings (Connection Type).";
 "lng_sure_enable" = "Enable";
 "lng_proxy_invalid" = "The proxy link is invalid.";
-"lng_proxy_unsupported" = "Your Teamgram Desktop version doesn't support this proxy type or the proxy link is invalid. Please update Teamgram Desktop to the latest version.";
+"lng_proxy_unsupported" = "Your IMTT Desktop version doesn't support this proxy type or the proxy link is invalid. Please update IMTT Desktop to the latest version.";
 
 "lng_edit_deleted" = "This message was deleted";
 "lng_edit_limit_reached#one" = "You've reached the message text limit. Please make the text shorter by {count} character.";
@@ -298,7 +298,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_caption_attach" = "Sorry, you can't attach a new media while you're editing your message.";
 "lng_edit_caption_voice" = "Sorry, you can't edit your message while you're having an unsent voice message.";
 
-"lng_intro_about" = "Welcome to the official Teamgram Desktop app.\nIt's fast and secure.";
+"lng_intro_about" = "Welcome to the official IMTT Desktop app.\nIt's fast and secure.";
 "lng_start_msgs" = "Start messaging";
 
 "lng_intro_next" = "Next";
@@ -308,8 +308,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_photo_caption" = "Caption";
 "lng_photos_comment" = "Comment";
 
-"lng_intro_qr_title" = "Scan From Mobile Teamgram";
-"lng_intro_qr_step1" = "Open Teamgram on your phone";
+"lng_intro_qr_title" = "Scan From Mobile IMTT";
+"lng_intro_qr_step1" = "Open IMTT on your phone";
 "lng_intro_qr_step2" = "Go to Settings > Devices > Link Desktop";
 "lng_intro_qr_step3" = "Scan this image to Log In";
 "lng_intro_qr_skip" = "Or log in using your phone number";
@@ -329,16 +329,16 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_code_ph" = "Your code";
 "lng_code_desc" = "We have sent you a message with activation\ncode to your phone. Please enter it below.";
-"lng_code_from_telegram" = "Please enter the code you've just received\nin your previous **Teamgram** app.";
+"lng_code_from_telegram" = "Please enter the code you've just received\nin your previous **IMTT** app.";
 "lng_code_no_telegram" = "Send code via SMS";
-"lng_code_call" = "Teamgram will call you in {minutes}:{seconds}";
-"lng_code_calling" = "Requesting a call from Teamgram...";
-"lng_code_called" = "Teamgram dialed your number";
+"lng_code_call" = "IMTT will call you in {minutes}:{seconds}";
+"lng_code_calling" = "Requesting a call from IMTT...";
+"lng_code_called" = "IMTT dialed your number";
 
 "lng_bad_phone" = "Invalid phone number. Please try again.";
 "lng_bad_code" = "You have entered an invalid code.";
 "lng_bad_name" = "Please enter your first and last name.";
-"lng_bad_photo" = "Sorry, Teamgram can't process that type of image.";
+"lng_bad_photo" = "Sorry, IMTT can't process that type of image.";
 
 "lng_signin_title" = "Cloud password check";
 "lng_signin_desc" = "Please enter your cloud password.";
@@ -379,14 +379,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_contacts_not_found" = "No contacts found";
 "lng_topics_not_found" = "No topics found.";
 "lng_dlg_search_for_messages" = "Search for messages";
-"lng_update_telegram" = "Update Teamgram";
+"lng_update_telegram" = "Update IMTT";
 "lng_dlg_search_in" = "Search messages in";
 "lng_dlg_search_from" = "From: {user}";
 
 "lng_settings_save" = "Save";
 
 "lng_username_title" = "Username";
-"lng_username_description" = "You can choose a username on Teamgram. If you do, other people will be able to find you by this username and contact you without knowing your phone number.\n\nYou can use **a-z**, **0-9** and **underscores**.\nMinimum length is **5 characters**.";
+"lng_username_description" = "You can choose a username on IMTT. If you do, other people will be able to find you by this username and contact you without knowing your phone number.\n\nYou can use **a-z**, **0-9** and **underscores**.\nMinimum length is **5 characters**.";
 "lng_username_choose" = "Choose your username.";
 "lng_username_invalid" = "This username is invalid.";
 "lng_username_occupied" = "This username is already occupied.";
@@ -441,7 +441,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_include_muted" = "Include muted chats in unread count";
 "lng_settings_count_unread" = "Count unread messages";
 "lng_settings_events_title" = "Events";
-"lng_settings_events_joined" = "Contact joined Teamgram";
+"lng_settings_events_joined" = "Contact joined IMTT";
 "lng_settings_events_pinned" = "Pinned messages";
 "lng_settings_notifications_calls_title" = "Calls";
 
@@ -475,7 +475,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_languages_none" = "No languages found.";
 "lng_languages_count#one" = "{count} language";
 "lng_languages_count#other" = "{count} languages";
-"lng_sure_save_language" = "Teamgram will restart in order to change language";
+"lng_sure_save_language" = "IMTT will restart in order to change language";
 "lng_settings_update_automatically" = "Update automatically";
 "lng_settings_install_beta" = "Install beta versions";
 "lng_settings_current_version" = "Version {version}";
@@ -492,11 +492,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_title_account_name" = "Show active account";
 "lng_settings_title_total_count" = "Total unread count";
 "lng_settings_native_frame" = "Use system window frame";
-"lng_settings_auto_start" = "Launch Teamgram when system starts";
+"lng_settings_auto_start" = "Launch IMTT when system starts";
 "lng_settings_start_min" = "Launch minimized";
-"lng_settings_auto_start_disabled_uwp" = "Starting with the system was disabled in Windows Settings.\n\nPlease enable Teamgram Desktop in the Startup Apps Settings.";
+"lng_settings_auto_start_disabled_uwp" = "Starting with the system was disabled in Windows Settings.\n\nPlease enable IMTT Desktop in the Startup Apps Settings.";
 "lng_settings_open_system_settings" = "Open Settings";
-"lng_settings_add_sendto" = "Place Teamgram in \"Send to\" menu";
+"lng_settings_add_sendto" = "Place IMTT in \"Send to\" menu";
 "lng_settings_mac_warn_before_quit" = "Show warning before quitting with {text}";
 "lng_settings_mac_round_icon" = "Round application icon";
 
@@ -563,7 +563,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_profile_photo_privacy" = "Profile photo";
 "lng_settings_voices_privacy" = "Voice messages";
 "lng_settings_privacy_premium" = "Only subscribers of {link} can restrict receiving voice messages.";
-"lng_settings_privacy_premium_link" = "Teamgram Premium";
+"lng_settings_privacy_premium_link" = "IMTT Premium";
 "lng_settings_passcode_disable" = "Disable Passcode";
 "lng_settings_passcode_disable_sure" = "Are you sure you want to disable passcode?";
 "lng_settings_password_disable" = "Disable Cloud Password";
@@ -573,7 +573,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_username_label" = "Username";
 "lng_settings_phone_label" = "Phone number";
 "lng_settings_username_add" = "Add username";
-"lng_settings_peer_to_peer_about" = "Disabling peer-to-peer will relay all calls through Teamgram servers to avoid revealing your IP address, but may slightly decrease audio quality.";
+"lng_settings_peer_to_peer_about" = "Disabling peer-to-peer will relay all calls through IMTT servers to avoid revealing your IP address, but may slightly decrease audio quality.";
 "lng_settings_advanced" = "Advanced";
 "lng_settings_stickers_emoji" = "Stickers and emoji";
 "lng_settings_messages" = "Messages";
@@ -606,7 +606,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_angle_backend_disabled" = "Disabled";
 "lng_settings_sensitive_title" = "Sensitive content";
 "lng_settings_sensitive_disable_filtering" = "Disable filtering";
-"lng_settings_sensitive_about" = "Display sensitive media in public channels on all your Teamgram devices.";
+"lng_settings_sensitive_about" = "Display sensitive media in public channels on all your IMTT devices.";
 "lng_settings_security_bots" = "Bots and websites";
 "lng_settings_clear_payment_info" = "Clear Payment and Shipping Info";
 
@@ -636,7 +636,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_cloud_password_password_title" = "Password";
 "lng_settings_cloud_password_hint_title" = "Password Hint";
 "lng_settings_cloud_password_email_title" = "Recovery Email";
-"lng_settings_cloud_password_start_about" = "Protect your Teamgram account with an additional password.";
+"lng_settings_cloud_password_start_about" = "Protect your IMTT account with an additional password.";
 "lng_settings_cloud_password_hint_about" = "You can create a hint for your password.";
 "lng_settings_cloud_password_email_about" = "Please enter your new recovery email. It is the only way to recover a forgotten password.";
 "lng_settings_cloud_password_password_subtitle" = "Create Password";
@@ -689,7 +689,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_clear_payment_info_shipping" = "Shipping info";
 "lng_clear_payment_info_payment" = "Payment info";
 "lng_clear_payment_info_clear" = "Clear";
-"lng_clear_payment_info_confirm" = "Delete your shipping info and instruct all payment providers to remove your saved credit cards? Note that Teamgram never stores your credit card data.";
+"lng_clear_payment_info_confirm" = "Delete your shipping info and instruct all payment providers to remove your saved credit cards? Note that IMTT never stores your credit card data.";
 
 "lng_settings_auto_night_mode" = "Auto-Night mode";
 "lng_settings_auto_night_enabled" = "Match the system settings";
@@ -714,7 +714,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_theme_reverting#other" = "Reverting to the old theme in {count} seconds.";
 "lng_theme_keep_changes" = "Keep changes";
 "lng_theme_revert" = "Revert";
-"lng_theme_no_desktop" = "Sorry, this theme doesn't include a version for Teamgram Desktop.";
+"lng_theme_no_desktop" = "Sorry, this theme doesn't include a version for IMTT Desktop.";
 "lng_theme_share" = "Share";
 "lng_theme_edit" = "Edit";
 "lng_theme_delete" = "Delete";
@@ -734,7 +734,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_download_path_temp" = "Temp folder";
 "lng_download_path_default" = "Default folder";
 "lng_download_path_header" = "Choose download path";
-"lng_download_path_default_radio" = "Teamgram folder in system «Downloads»";
+"lng_download_path_default_radio" = "IMTT folder in system «Downloads»";
 "lng_download_path_temp_radio" = "Temp folder, cleared on logout or uninstall";
 "lng_download_path_dir_radio" = "Custom folder, cleared only manually";
 "lng_download_path_choose" = "Choose download path";
@@ -778,10 +778,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passcode_enter_first" = "Enter a passcode";
 "lng_passcode_enter_new" = "Enter new passcode";
 "lng_passcode_confirm_new" = "Re-enter new passcode";
-"lng_passcode_about" = "When a local passcode is set, a lock icon appears at the top of your chats list. Click it to lock the app.\n\nNote: if you forget your local passcode, you'll need to relogin in Teamgram Desktop.";
+"lng_passcode_about" = "When a local passcode is set, a lock icon appears at the top of your chats list. Click it to lock the app.\n\nNote: if you forget your local passcode, you'll need to relogin in IMTT Desktop.";
 "lng_passcode_about1" = "When a local passcode is set, a lock icon appears at the top of your chats list.";
-"lng_passcode_about2" = "Click it to lock Teamgram Desktop.";
-"lng_passcode_about3" = "Note: if you forget your passcode, you'll need to log out of Teamgram Desktop and log in again.";
+"lng_passcode_about2" = "Click it to lock IMTT Desktop.";
+"lng_passcode_about3" = "Note: if you forget your passcode, you'll need to log out of IMTT Desktop and log in again.";
 "lng_passcode_differ" = "Passcodes are different";
 "lng_passcode_wrong" = "Wrong passcode";
 "lng_passcode_is_same" = "Passcode was not changed";
@@ -812,7 +812,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cloud_password_email" = "Enter Email";
 "lng_cloud_password_bad_email" = "Incorrect email, please try other.";
 "lng_cloud_password_about" = "This password will be asked when you log in on a new device in addition to the SMS code.";
-"lng_cloud_password_about_recover" = "Warning! Are you sure you don't want to\nadd a password recovery email?\n\nIf you forget your password, you will\nlose access to your Teamgram account.";
+"lng_cloud_password_about_recover" = "Warning! Are you sure you don't want to\nadd a password recovery email?\n\nIf you forget your password, you will\nlose access to your IMTT account.";
 "lng_cloud_password_skip_email" = "Skip email";
 "lng_cloud_password_was_set" = "Two-step verification enabled.";
 "lng_cloud_password_updated" = "Your cloud password was updated.";
@@ -820,7 +820,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cloud_password_differ" = "Passwords do not match";
 "lng_cloud_password_wrong" = "Wrong cloud password";
 "lng_cloud_password_is_same" = "Password was not changed";
-"lng_cloud_password_passport_losing" = "Warning! All data saved in your Teamgram Passport will be lost!";
+"lng_cloud_password_passport_losing" = "Warning! All data saved in your IMTT Passport will be lost!";
 "lng_cloud_password_resend" = "Resend code";
 "lng_cloud_password_resent" = "Code was resent.";
 "lng_cloud_password_reset_no_email" = "Since you didn't provide a recovery email when setting up your password, your remaining options are either to remember your password or wait 7 days until your password is reset.";
@@ -848,7 +848,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_proxy_use_system_settings" = "Use system proxy settings";
 "lng_proxy_use_custom" = "Use custom proxy";
 "lng_proxy_use_for_calls" = "Use proxy for calls";
-"lng_proxy_about" = "Proxy servers may be helpful in accessing Teamgram if there is no connection in a specific region.";
+"lng_proxy_about" = "Proxy servers may be helpful in accessing IMTT if there is no connection in a specific region.";
 "lng_proxy_add" = "Add proxy";
 "lng_proxy_share" = "Share";
 "lng_proxy_online" = "connected";
@@ -866,8 +866,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_proxy_credentials" = "Credentials";
 "lng_proxy_description" = "Your saved proxy list will be here.";
 "lng_proxy_sponsor" = "Proxy sponsor";
-"lng_proxy_sponsor_about" = "This channel is shown by your proxy server.\nTo remove this channel from your chats list,\ndisable the proxy in Teamgram Settings.";
-"lng_proxy_sponsor_warning" = "This proxy may display a sponsored channel in your chat list. This doesn't reveal any of your Teamgram traffic.";
+"lng_proxy_sponsor_about" = "This channel is shown by your proxy server.\nTo remove this channel from your chats list,\ndisable the proxy in IMTT Settings.";
+"lng_proxy_sponsor_warning" = "This proxy may display a sponsored channel in your chat list. This doesn't reveal any of your IMTT traffic.";
 "lng_badge_psa_default" = "PSA";
 "lng_about_psa_default" = "This message provides you with a public service announcement. To remove it from your chats list, right click it and select **Hide**.";
 "lng_tooltip_psa_default" = "This message provides you with a public service announcement.";
@@ -875,7 +875,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_blocked_users" = "Blocked users";
 "lng_settings_no_blocked_users" = "None";
 "lng_settings_show_sessions" = "Show all sessions";
-"lng_settings_export_data" = "Export Teamgram data";
+"lng_settings_export_data" = "Export IMTT data";
 "lng_settings_destroy_if" = "If away for...";
 
 "lng_settings_terminate_title" = "Terminate old sessions";
@@ -888,11 +888,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_rename_device_title" = "Rename current device";
 "lng_settings_manage_local_storage" = "Manage local storage";
 "lng_settings_ask_question" = "Ask a Question";
-"lng_settings_ask_sure" = "Please note that Teamgram Support is run by volunteers. We try to respond as quickly as possible, but it may take a while.\n\nPlease take a look at the Teamgram FAQ: it has important troubleshooting tips and answers to most questions.";
+"lng_settings_ask_sure" = "Please note that IMTT Support is run by volunteers. We try to respond as quickly as possible, but it may take a while.\n\nPlease take a look at the IMTT FAQ: it has important troubleshooting tips and answers to most questions.";
 "lng_settings_faq_button" = "Go to FAQ";
 "lng_settings_ask_ok" = "Ask a Volunteer";
-"lng_settings_faq" = "Teamgram FAQ";
-"lng_settings_features" = "Teamgram Features";
+"lng_settings_faq" = "IMTT FAQ";
+"lng_settings_features" = "IMTT Features";
 "lng_settings_logout" = "Log Out";
 "lng_sure_logout" = "Are you sure you want to log out?";
 
@@ -902,7 +902,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_sessions_header" = "Current session";
 "lng_sessions_other_header" = "Active sessions";
-"lng_sessions_other_desc" = "You can log in to Teamgram from other mobile, tablet and desktop devices, using the same phone number. All your data will be instantly synchronized.";
+"lng_sessions_other_desc" = "You can log in to IMTT from other mobile, tablet and desktop devices, using the same phone number. All your data will be instantly synchronized.";
 "lng_sessions_terminate_all" = "Terminate all other sessions";
 "lng_sessions_terminate_all_about" = "Logs out all devices except for this one.";
 "lng_sessions_incomplete" = "Incomplete login attempts";
@@ -914,7 +914,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sessions_ip" = "IP address";
 "lng_sessions_location" = "Location";
 "lng_sessions_location_about" = "This location is based only on the IP address and may not always be accurate.";
-"lng_sessions_about_apps" = "The official Teamgram app is available for Android, iPhone, iPad, Windows, macOS and Linux.";
+"lng_sessions_about_apps" = "The official IMTT app is available for Android, iPhone, iPad, Windows, macOS and Linux.";
 
 "lng_blocked_list_title" = "Blocked users";
 "lng_blocked_list_unknown_phone" = "unknown phone number";
@@ -925,7 +925,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_blocked_list_about" = "Blocked users can't send you messages or add you to groups. They will not see your profile pictures, online and last seen status.";
 "lng_blocked_list_not_found" = "No users found.";
 "lng_blocked_list_confirm_title" = "Block {name}";
-"lng_blocked_list_confirm_text" = "Do you want to block {name} from messaging and calling you on Teamgram?";
+"lng_blocked_list_confirm_text" = "Do you want to block {name} from messaging and calling you on IMTT?";
 "lng_blocked_list_confirm_clear" = "Delete this chat";
 "lng_blocked_list_confirm_ok" = "Block";
 "lng_blocked_list_empty_title" = "No blocked users";
@@ -944,7 +944,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_edit_privacy_phone_number_title" = "Phone number privacy";
 "lng_edit_privacy_phone_number_header" = "Who can see your phone number";
-"lng_edit_privacy_phone_number_warning" = "Users who already have your number saved in the contacts will also see it on Teamgram.";
+"lng_edit_privacy_phone_number_warning" = "Users who already have your number saved in the contacts will also see it on IMTT.";
 "lng_edit_privacy_phone_number_always_empty" = "Always share with";
 "lng_edit_privacy_phone_number_never_empty" = "Never share with";
 "lng_edit_privacy_phone_number_exceptions" = "These settings will override the values above.";
@@ -952,7 +952,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_phone_number_never_title" = "Never share with";
 
 "lng_edit_privacy_phone_number_find" = "Who can find me by my number";
-"lng_edit_privacy_phone_number_contacts" = "Users who add your number to their contacts will see it on Teamgram only if they are your contacts.";
+"lng_edit_privacy_phone_number_contacts" = "Users who add your number to their contacts will see it on IMTT only if they are your contacts.";
 
 "lng_edit_privacy_lastseen_title" = "Last seen privacy";
 "lng_edit_privacy_lastseen_header" = "Who can see your last seen time";
@@ -1031,9 +1031,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_self_destruct_sessions_description" = "If you don't come online from a specific session at least once within this period, it will be terminated.";
 
 "lng_change_phone_title" = "Change phone number";
-"lng_change_phone_about" = "You can change your Teamgram number\nhere. Your account and all your cloud data\n— messages, media, contacts, etc. will be\nmoved to the new number.\n\n**Important**: all your Teamgram contacts will\nget your **new number** added to their address\nbook, provided they had your old number and\nyou haven't blocked them in Teamgram.";
-"lng_change_phone_warning" = "All your Teamgram contacts will get your new number added to their address book, provided they had your old number and you haven't blocked them in Teamgram.";
-"lng_change_phone_occupied" = "The number {phone} is already connected to a Teamgram account. Please delete that account before migrating to the new number.";
+"lng_change_phone_about" = "You can change your IMTT number\nhere. Your account and all your cloud data\n— messages, media, contacts, etc. will be\nmoved to the new number.\n\n**Important**: all your IMTT contacts will\nget your **new number** added to their address\nbook, provided they had your old number and\nyou haven't blocked them in IMTT.";
+"lng_change_phone_warning" = "All your IMTT contacts will get your new number added to their address book, provided they had your old number and you haven't blocked them in IMTT.";
+"lng_change_phone_occupied" = "The number {phone} is already connected to a IMTT account. Please delete that account before migrating to the new number.";
 "lng_change_phone_button" = "Change number";
 "lng_change_phone_new_title" = "Enter new number";
 "lng_change_phone_new_description" = "We will send an SMS with a confirmation code to your new number.";
@@ -1150,9 +1150,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_suggest_sure" = "You can suggest {user} to set this photo for their page.";
 "lng_profile_suggest_button" = "Suggest";
 "lng_profile_set_personal_sure" = "Only you will see this photo and it will replace any photo {user} sets for themselves.";
-"lng_profile_accept_photo_sure" = "{user} suggests you to use this profile photo for your Teamgram account.";
+"lng_profile_accept_photo_sure" = "{user} suggests you to use this profile photo for your IMTT account.";
 "lng_profile_set_photo_button" = "Set Photo";
-"lng_profile_accept_video_sure" = "{user} suggests you to use this profile video for your Teamgram account.";
+"lng_profile_accept_video_sure" = "{user} suggests you to use this profile video for your IMTT account.";
 "lng_profile_set_video_button" = "Set Video";
 "lng_profile_changed_photo_title" = "Photo updated";
 "lng_profile_changed_photo_about" = "You can change it in {link}.";
@@ -1228,7 +1228,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_manage_peer_reactions_available" = "Available reactions";
 
 "lng_manage_peer_antispam" = "Aggressive Anti-Spam";
-"lng_manage_peer_antispam_about" = "Teamgram will filter more spam but may occasionally affect ordinary messages. You can report False Positives in Recent Actions.";
+"lng_manage_peer_antispam_about" = "IMTT will filter more spam but may occasionally affect ordinary messages. You can report False Positives in Recent Actions.";
 "lng_manage_peer_antispam_not_enough#one" = "Aggressive filtering can be enabled only in groups with more than **{count} member**.";
 "lng_manage_peer_antispam_not_enough#other" = "Aggressive filtering can be enabled only in groups with more than **{count} members**.";
 
@@ -1399,7 +1399,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sure_delete_selected_days#other" = "{count} selected days";
 
 "lng_message_empty" = "Empty Message";
-"lng_message_unsupported" = "This message is not supported by your version of Teamgram Desktop. Please update to the latest version in Settings, or install it from {link}";
+"lng_message_unsupported" = "This message is not supported by your version of IMTT Desktop. Please update to the latest version in Settings, or install it from {link}";
 "lng_message_not_found" = "Message doesn't exist.";
 
 "lng_duration_minsec_minutes#one" = "{count} min";
@@ -1433,7 +1433,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_user_joined_by_request" = "{from} was accepted to the group";
 "lng_action_you_joined_by_request" = "Your request to join the group was approved";
 "lng_action_you_joined_by_request_channel" = "Your request to join the channel was approved";
-"lng_action_user_registered" = "{from} just joined Teamgram";
+"lng_action_user_registered" = "{from} just joined IMTT";
 "lng_action_removed_photo" = "{from} removed group photo";
 "lng_action_removed_photo_channel" = "Channel photo removed";
 "lng_action_changed_photo" = "{from} updated group photo";
@@ -1578,8 +1578,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_invite_can_join#other" = "{count} can join";
 "lng_group_invite_days_left#one" = "{count} day left";
 "lng_group_invite_days_left#other" = "{count} days left";
-"lng_group_invite_about_permanent_group" = "Anyone who has Teamgram installed will be able to join your group by following this link.";
-"lng_group_invite_about_permanent_channel" = "Anyone who has Teamgram installed will be able to join your channel by following this link.";
+"lng_group_invite_about_permanent_group" = "Anyone who has IMTT installed will be able to join your group by following this link.";
+"lng_group_invite_about_permanent_channel" = "Anyone who has IMTT installed will be able to join your channel by following this link.";
 "lng_group_invite_title" = "Invite links";
 "lng_group_invite_add" = "Create a New Link";
 "lng_group_invite_add_about" = "You can generate invite links that will expire after they've been used.";
@@ -1622,7 +1622,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_invite_can_join_via_link#one" = "{count} person can join via this link.";
 "lng_group_invite_can_join_via_link#other" = "{count} people can join via this link.";
 "lng_group_invite_qr_title" = "Invite by QR Code";
-"lng_group_invite_qr_about" = "Everyone on Teamgram can scan this code to join your group.";
+"lng_group_invite_qr_about" = "Everyone on IMTT can scan this code to join your group.";
 "lng_group_invite_qr_copied" = "QR Code copied to clipboard.";
 "lng_group_invite_request_approve" = "Request admin approval";
 "lng_group_invite_about_approve" = "New users will be able to join the group only after having been approved by the admins.";
@@ -1681,7 +1681,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cancel_edit_post_yes" = "Yes";
 "lng_cancel_edit_post_no" = "No";
 
-"lng_bot_share_location_unavailable" = "Sorry, location sharing is currently unavailable in Teamgram Desktop.";
+"lng_bot_share_location_unavailable" = "Sorry, location sharing is currently unavailable in IMTT Desktop.";
 "lng_bot_share_phone" = "Do you want to share your phone number with this bot?";
 "lng_bot_share_phone_confirm" = "Share";
 
@@ -1738,7 +1738,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_premium" = "Premium";
 "lng_premium_free" = "Free";
-"lng_premium_more_about" = "More About Teamgram Premium";
+"lng_premium_more_about" = "More About IMTT Premium";
 "lng_premium_unlock_reactions" = "Unlock Premium Reactions";
 "lng_premium_unlock_stickers" = "Unlock Premium Stickers";
 "lng_premium_unlock_emoji" = "Unlock Animated Emoji";
@@ -1752,19 +1752,19 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_premium_emoji_status_title" = "{user} set this emoji from {link} as their current status.";
 "lng_premium_emoji_status_title_colored" = "{user} set this emoji as their current status.";
-"lng_premium_emoji_status_about" = "Emoji status is a premium feature. Other features included in **Teamgram Premium**:";
+"lng_premium_emoji_status_about" = "Emoji status is a premium feature. Other features included in **IMTT Premium**:";
 "lng_premium_emoji_status_button" = "Unlock Emoji Status";
 
-"lng_premium_summary_user_title" = "{user} is a subscriber of Teamgram Premium.";
-"lng_premium_summary_user_about" = "Owners of Teamgram Premium accounts have exclusive access to multiple additional features.";
+"lng_premium_summary_user_title" = "{user} is a subscriber of IMTT Premium.";
+"lng_premium_summary_user_about" = "Owners of IMTT Premium accounts have exclusive access to multiple additional features.";
 
-"lng_premium_summary_title" = "Teamgram Premium";
-"lng_premium_summary_top_about" = "Go **beyond the limits**, get **exclusive features** and support us by subscribing to **Teamgram Premium**.";
+"lng_premium_summary_title" = "IMTT Premium";
+"lng_premium_summary_top_about" = "Go **beyond the limits**, get **exclusive features** and support us by subscribing to **IMTT Premium**.";
 "lng_premium_summary_title_subscribed" = "You are all set!";
-"lng_premium_summary_subtitle_gift#one" = "{user} has gifted you a {count}-month subscription for Teamgram Premium.";
-"lng_premium_summary_subtitle_gift#other" = "{user} has gifted you a {count}-months subscription for Teamgram Premium.";
-"lng_premium_summary_subtitle_gift_me#one" = "You gifted {user} a {count}-month subscription for Teamgram Premium.";
-"lng_premium_summary_subtitle_gift_me#other" = "You gifted {user} a {count}-months subscription for Teamgram Premium.";
+"lng_premium_summary_subtitle_gift#one" = "{user} has gifted you a {count}-month subscription for IMTT Premium.";
+"lng_premium_summary_subtitle_gift#other" = "{user} has gifted you a {count}-months subscription for IMTT Premium.";
+"lng_premium_summary_subtitle_gift_me#one" = "You gifted {user} a {count}-month subscription for IMTT Premium.";
+"lng_premium_summary_subtitle_gift_me#other" = "You gifted {user} a {count}-months subscription for IMTT Premium.";
 "lng_premium_summary_subtitle_double_limits" = "Doubled Limits";
 "lng_premium_summary_about_double_limits" = "Up to 1000 channels, 20 folders, 10 pins, 20 public links, 4 accounts and more.";
 "lng_premium_summary_subtitle_more_upload" = "4Gb Upload Size";
@@ -1774,7 +1774,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_summary_subtitle_voice_to_text" = "Voice-to-Text Conversion";
 "lng_premium_summary_about_voice_to_text" = "Ability to read the transcript of any incoming voice message.";
 "lng_premium_summary_subtitle_no_ads" = "No Ads";
-"lng_premium_summary_about_no_ads" = "No more ads in public channels where Teamgram sometimes shows ads.";
+"lng_premium_summary_about_no_ads" = "No more ads in public channels where IMTT sometimes shows ads.";
 "lng_premium_summary_subtitle_emoji_status" = "Emoji Status";
 "lng_premium_summary_about_emoji_status" = "Add any of thousands emoji next to your name to display current activity.";
 "lng_premium_summary_subtitle_infinite_reactions" = "Infinite Reactions";
@@ -1786,17 +1786,17 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_summary_subtitle_advanced_chat_management" = "Advanced Chat Management";
 "lng_premium_summary_about_advanced_chat_management" = "Tools to set default folder, auto-archive and hide new chats from non-contacts.";
 "lng_premium_summary_subtitle_profile_badge" = "Profile Badge";
-"lng_premium_summary_about_profile_badge" = "A badge next to your name showing that you are helping support Teamgram.";
+"lng_premium_summary_about_profile_badge" = "A badge next to your name showing that you are helping support IMTT.";
 "lng_premium_summary_subtitle_animated_userpics" = "Animated Profile Pictures";
 "lng_premium_summary_about_animated_userpics" = "Video avatars animated in chat lists and chats to allow for additional self-expression.";
 "lng_premium_summary_subtitle_translation" = "Real-Time Translation";
 "lng_premium_summary_about_translation" = "Real-time translation of channels and chats into other languages.";
-"lng_premium_summary_bottom_subtitle" = "About Teamgram Premium";
-"lng_premium_summary_bottom_about" = "While the free version of Teamgram already gives its users more than any other messaging application, **Teamgram Premium** pushes its capabilities even further.\n\n**Teamgram Premium** is a paid option, because most Premium Features require additional expenses from Teamgram to third parties such as data center providers and server manufacturers. Contributions from **Teamgram Premium** users allow us to cover such costs and also help Teamgram stay free for everyone.";
+"lng_premium_summary_bottom_subtitle" = "About IMTT Premium";
+"lng_premium_summary_bottom_about" = "While the free version of IMTT already gives its users more than any other messaging application, **IMTT Premium** pushes its capabilities even further.\n\n**IMTT Premium** is a paid option, because most Premium Features require additional expenses from IMTT to third parties such as data center providers and server manufacturers. Contributions from **IMTT Premium** users allow us to cover such costs and also help IMTT stay free for everyone.";
 "lng_premium_summary_button" = "Subscribe for {cost} per month";
 
-"lng_premium_success" = "You've successfully subscribed to Teamgram Premium!";
-"lng_premium_unavailable" = "This feature requires subscription to **Teamgram Premium**.\n\nUnfortunately, **Teamgram Premium** is not available in your region.";
+"lng_premium_success" = "You've successfully subscribed to IMTT Premium!";
+"lng_premium_unavailable" = "This feature requires subscription to **IMTT Premium**.\n\nUnfortunately, **IMTT Premium** is not available in your region.";
 
 // Doubled Limits.
 "lng_premium_double_limits_subtitle_channels" = "Groups and Channels";
@@ -1808,8 +1808,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_double_limits_about_pins#other" = "Pin up to {count} chats in your main chat list";
 
 "lng_premium_double_limits_subtitle_links" = "Public Links";
-"lng_premium_double_limits_about_links#one" = "Reserve up to {count} teamgram.me/name links";
-"lng_premium_double_limits_about_links#other" = "Reserve up to {count} teamgram.me/name links";
+"lng_premium_double_limits_about_links#one" = "Reserve up to {count} im.tt/name links";
+"lng_premium_double_limits_about_links#other" = "Reserve up to {count} im.tt/name links";
 
 "lng_premium_double_limits_subtitle_gifs" = "Saved GIFs";
 "lng_premium_double_limits_about_gifs#one" = "Save up to {count} GIFs in your Favorite GIFs";
@@ -1838,17 +1838,17 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_double_limits_about_accounts#other" = "Connect {count} accounts with different mobile numbers";
 //
 
-"lng_premium_gift_title" = "Gift Teamgram Premium";
-"lng_premium_gift_about" = "Let **{user}** enjoy exclusive features of Teamgram with **Teamgram Premium**.";
+"lng_premium_gift_title" = "Gift IMTT Premium";
+"lng_premium_gift_about" = "Let **{user}** enjoy exclusive features of IMTT with **IMTT Premium**.";
 "lng_premium_gift_button" = "Gift Subscription for {cost}";
 "lng_premium_gift_per" = "{cost} / month";
-"lng_premium_gift_terms" = "You can review the list of features and terms of use for Teamgram Premium {link}.";
+"lng_premium_gift_terms" = "You can review the list of features and terms of use for IMTT Premium {link}.";
 "lng_premium_gift_terms_link" = "here";
 
 "lng_accounts_limit_title" = "Limit Reached";
 "lng_accounts_limit1#one" = "You have reached the limit of **{count}** connected accounts.";
 "lng_accounts_limit1#other" = "You have reached the limit of **{count}** connected accounts.";
-"lng_accounts_limit2" = "You can free one space by subscribing to **Teamgram Premium** with one of these connected accounts:";
+"lng_accounts_limit2" = "You can free one space by subscribing to **IMTT Premium** with one of these connected accounts:";
 
 "lng_emoji_status_for_title" = "Set Status for...";
 "lng_emoji_status_for_submit" = "Set Status";
@@ -1858,7 +1858,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_about_text" = "Groups can have:";
 "lng_group_about1" = "Up to 100,000 members";
 "lng_group_about2" = "Persistent chat history";
-"lng_group_about3" = "Public links such as teamgram.me/title";
+"lng_group_about3" = "Public links such as im.tt/title";
 "lng_group_about4" = "Admins with different rights";
 
 "lng_switch_stickers" = "Stickers";
@@ -1958,7 +1958,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_new_contact_from_request_channel" = "{user} is an admin of {name}, a channel you requested to join.";
 "lng_new_contact_from_request_group" = "{user} is an admin of {name}, a group you requested to join.";
 "lng_new_contact_about_status" = "This account uses {emoji} as a custom status next to its\nname. Such emoji statuses are available to all\nsubscribers of {link}.";
-"lng_new_contact_about_status_link" = "Teamgram Premium";
+"lng_new_contact_about_status_link" = "IMTT Premium";
 "lng_from_request_title_channel" = "Chat with channel's admin";
 "lng_from_request_title_group" = "Chat with group's admin";
 "lng_from_request_body" = "You received this message because you requested to join {name} on {date}.";
@@ -2000,7 +2000,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_send_as_title" = "Send message as...";
 "lng_send_as_anonymous_admin" = "Anonymous admin";
 "lng_send_as_premium_required" = "Subscribe to {link} to be able to comment on behalf of your channels in group chats.";
-"lng_send_as_premium_required_link" = "Teamgram Premium";
+"lng_send_as_premium_required_link" = "IMTT Premium";
 "lng_record_cancel" = "Release outside this field to cancel";
 "lng_record_lock_cancel_sure" = "Are you sure you want to stop recording and discard your voice message?";
 "lng_record_listen_cancel_sure" = "Are you sure you want to discard your recorded voice message?";
@@ -2065,12 +2065,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_dialogs_skip_archive_in_search" = "Skip results from archive";
 "lng_dialogs_show_archive_in_search" = "With results from archive";
 
-"lng_about_random" = "Send a {emoji} emoji to any chat to get a random number from Teamgram.";
+"lng_about_random" = "Send a {emoji} emoji to any chat to get a random number from IMTT.";
 "lng_about_random_send" = "Send";
 
 "lng_open_this_link" = "Open this link?";
 "lng_open_link" = "Open";
-"lng_allow_bot_pass" = "Allow {bot_name} to pass your Teamgram name and ID to the web pages you open via this bot?";
+"lng_allow_bot_pass" = "Allow {bot_name} to pass your IMTT name and ID to the web pages you open via this bot?";
 "lng_allow_bot" = "Allow";
 "lng_allow_bot_webview" = "{bot_name} would like to open its web app to proceed.\n\nIt will be able to access your **IP address** and basic device info.";
 "lng_url_auth_open_confirm" = "Do you want to open {link}?";
@@ -2347,7 +2347,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_add_contact" = "Create";
 "lng_add_contact_button" = "New contact";
 "lng_contacts_header" = "Contacts";
-"lng_contact_not_joined" = "Unfortunately {name} has not joined Teamgram yet, but you can send them an invitation.\n\nWe will notify you about any of your contacts who join Teamgram.";
+"lng_contact_not_joined" = "Unfortunately {name} has not joined IMTT yet, but you can send them an invitation.\n\nWe will notify you about any of your contacts who join IMTT.";
 "lng_try_other_contact" = "Try someone else";
 "lng_create_group_link" = "Link";
 "lng_create_group_invite_link" = "Invite link";
@@ -2398,10 +2398,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_about_version" = "version {version}";
 "lng_about_text1" = "Official free messaging app based on {api_link}\nfor speed and security.";
-"lng_about_text1_api" = "Teamgram API";
+"lng_about_text1_api" = "IMTT API";
 "lng_about_text2" = "This software is licensed under {gpl_link} version 3.\nSource code is available on {github_link}.";
 "lng_about_text3" = "Visit {faq_link} for more info.";
-"lng_about_text3_faq" = "Teamgram FAQ";
+"lng_about_text3_faq" = "IMTT FAQ";
 "lng_about_done" = "Done";
 
 "lng_search_no_results" = "No messages found";
@@ -2448,7 +2448,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_theme_preview_users#one" = "{count} person is using this theme";
 "lng_theme_preview_users#other" = "{count} people are using this theme";
 
-"lng_new_version_wrap" = "Teamgram Desktop was updated to version {version}\n\n{changes}\n\nFull version history is available here:\n{link}";
+"lng_new_version_wrap" = "IMTT Desktop was updated to version {version}\n\n{changes}\n\nFull version history is available here:\n{link}";
 "lng_new_version_minor" = "— Bug fixes and other minor improvements";
 
 "lng_menu_insert_unicode" = "Insert Unicode control character";
@@ -2479,7 +2479,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_confirm_phone_link_invalid" = "This link is broken or has expired.";
 "lng_confirm_phone_title" = "Cancel account reset";
-"lng_confirm_phone_about" = "Somebody with access to your phone number {phone} has requested to delete your Teamgram account and reset your 2-Step Verification password.\n\nIf this wasn't you, please enter the code we've just sent you via SMS to your number.";
+"lng_confirm_phone_about" = "Somebody with access to your phone number {phone} has requested to delete your IMTT account and reset your 2-Step Verification password.\n\nIf this wasn't you, please enter the code we've just sent you via SMS to your number.";
 "lng_confirm_phone_success" = "Success!\n\nThe deletion process was cancelled for your account {phone}. You may close this window now.";
 "lng_confirm_phone_send" = "Send";
 "lng_confirm_phone_enter_code" = "Please enter the code.";
@@ -2496,7 +2496,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_theme_editor_error" = "The editor encountered an error :( See 'log.txt' for details.";
 "lng_theme_editor_sure_close" = "Are you sure you want to close the editor? Your changes won't be saved.";
 "lng_theme_editor_need_auth" = "You need to log in to save your theme.";
-"lng_theme_editor_need_unlock" = "You need to unlock Teamgram to save your theme.";
+"lng_theme_editor_need_unlock" = "You need to unlock IMTT to save your theme.";
 "lng_theme_editor_done" = "Theme exported successfully!";
 "lng_theme_editor_title" = "Edit color palette";
 "lng_theme_editor_save_button" = "Save theme";
@@ -2550,7 +2550,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_payments_to_provider_phone" = "Phone will be passed to {provider} as billing info.";
 "lng_payments_processed_by" = "Processed by {provider}";
 "lng_payments_warning_title" = "Warning";
-"lng_payments_warning_body" = "Neither Teamgram, nor {bot1} will have access to your credit card information. Credit card details will be handled only by the payment system, {provider}.\n\nPayments will go directly to the developer of {bot2}. Teamgram cannot provide any guarantees, so proceed at your own risk. In case of problems, please contact the developer of {bot3} or your bank.";
+"lng_payments_warning_body" = "Neither IMTT, nor {bot1} will have access to your credit card information. Credit card details will be handled only by the payment system, {provider}.\n\nPayments will go directly to the developer of {bot2}. IMTT cannot provide any guarantees, so proceed at your own risk. In case of problems, please contact the developer of {bot3} or your bank.";
 "lng_payments_shipping_address_title" = "Shipping Information";
 "lng_payments_card_title" = "New Card";
 "lng_payments_card_number" = "Card Number";
@@ -2606,7 +2606,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_call_leave_to_other_sure_channel" = "Do you want to end your active call and join a live stream in this channel?";
 
 "lng_call_box_title" = "Calls";
-"lng_call_box_about" = "You haven't made any Teamgram calls yet.";
+"lng_call_box_about" = "You haven't made any IMTT calls yet.";
 "lng_call_box_status_today" = "{time}";
 "lng_call_box_status_yesterday" = "Yesterday at {time}";
 "lng_call_box_status_date" = "{date} at {time}";
@@ -2754,11 +2754,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_call_duration_minutes#other" = "{count} minutes";
 "lng_group_call_duration_seconds#one" = "{count} second";
 "lng_group_call_duration_seconds#other" = "{count} seconds";
-"lng_group_call_mac_access" = "Teamgram Desktop does not have access to system wide keyboard input required for Push to Talk.";
-"lng_group_call_mac_input" = "Please allow **Input Monitoring** for Teamgram in Privacy Settings.";
-"lng_group_call_mac_accessibility" = "Please allow **Accessibility** for Teamgram in Privacy Settings.\n\nApp restart may be required.";
-"lng_group_call_mac_screencast_access" = "Teamgram Desktop does not have access to screen recording required for Screen Sharing.";
-"lng_group_call_mac_recording" = "Please allow **Screen Recording** for Teamgram in Privacy Settings.";
+"lng_group_call_mac_access" = "IMTT Desktop does not have access to system wide keyboard input required for Push to Talk.";
+"lng_group_call_mac_input" = "Please allow **Input Monitoring** for IMTT in Privacy Settings.";
+"lng_group_call_mac_accessibility" = "Please allow **Accessibility** for IMTT in Privacy Settings.\n\nApp restart may be required.";
+"lng_group_call_mac_screencast_access" = "IMTT Desktop does not have access to screen recording required for Screen Sharing.";
+"lng_group_call_mac_recording" = "Please allow **Screen Recording** for IMTT in Privacy Settings.";
 "lng_group_call_mac_settings" = "Open Settings";
 
 "lng_group_call_start_as_header" = "Start Voice Chat as...";
@@ -2833,8 +2833,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_call_title_changed_channel" = "Live stream title changed to {title}";
 "lng_group_call_join_as_changed" = "Members of this voice chat will now see you as {name}";
 "lng_group_call_join_as_changed_channel" = "Members of this live stream will now see you as {name}";
-"lng_group_call_no_stream_admin" = "Oops! Teamgram doesn't see any stream coming from your streaming app. Please make sure you entered the right Server URL and Stream Key in your app..";
-"lng_group_call_no_stream" = "{group} is currently not broadcasting live stream data to Teamgram.";
+"lng_group_call_no_stream_admin" = "Oops! IMTT doesn't see any stream coming from your streaming app. Please make sure you entered the right Server URL and Stream Key in your app..";
+"lng_group_call_no_stream" = "{group} is currently not broadcasting live stream data to IMTT.";
 
 "lng_menu_start_group_call" = "Start video chat";
 "lng_menu_start_group_call_scheduled" = "Schedule video chat";
@@ -2860,7 +2860,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_call_rtmp_viewers#one" = "{count} viewer";
 "lng_group_call_rtmp_viewers#other" = "{count} viewers";
 
-"lng_no_mic_permission" = "Teamgram needs access to your microphone so that you can make calls and record voice messages.";
+"lng_no_mic_permission" = "IMTT needs access to your microphone so that you can make calls and record voice messages.";
 
 "lng_player_message_today" = "Today at {time}";
 "lng_player_message_yesterday" = "Yesterday at {time}";
@@ -3197,11 +3197,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_terms_age#other" = "I confirm that I am {count} or over";
 "lng_terms_agree" = "Agree & Continue";
 "lng_terms_decline" = "Decline";
-"lng_terms_signup_sorry" = "We're very sorry, but this means you can't sign up for Teamgram.\n\nUnlike others, we don't use your data for ad targeting or other commercial purposes. Teamgram only stores the information it needs to function as a feature-rich cloud service. You can adjust how we use your data in Privacy & Security settings.\n\nBut if you're generally not OK with Teamgram's modest needs, it won't be possible for us to provide this service.";
-"lng_terms_update_sorry" = "We're very sorry, but this means we must part ways here. Unlike others, we don't use your data for ad targeting or other commercial purposes. Teamgram only stores the information it needs to function as a feature-rich cloud service. You can adjust how we use your data in Privacy & Security settings.\n\nBut if you're generally not OK with Teamgram's modest needs, it won't be possible for us to provide this service. You can deactivate your account now — or look around some more and deactivate it later if you feel you're not happy with the way we use your data. How does that sound?";
+"lng_terms_signup_sorry" = "We're very sorry, but this means you can't sign up for IMTT.\n\nUnlike others, we don't use your data for ad targeting or other commercial purposes. IMTT only stores the information it needs to function as a feature-rich cloud service. You can adjust how we use your data in Privacy & Security settings.\n\nBut if you're generally not OK with IMTT's modest needs, it won't be possible for us to provide this service.";
+"lng_terms_update_sorry" = "We're very sorry, but this means we must part ways here. Unlike others, we don't use your data for ad targeting or other commercial purposes. IMTT only stores the information it needs to function as a feature-rich cloud service. You can adjust how we use your data in Privacy & Security settings.\n\nBut if you're generally not OK with IMTT's modest needs, it won't be possible for us to provide this service. You can deactivate your account now — or look around some more and deactivate it later if you feel you're not happy with the way we use your data. How does that sound?";
 "lng_terms_decline_and_delete" = "Decline & Delete";
 "lng_terms_back" = "Back";
-"lng_terms_delete_warning" = "Warning, this will irreversibly delete your Teamgram account along with all the data you store in the Teamgram cloud.\n\nWe will provide a tool to download your data before June, 23 – so you may want to wait a little before deleting.";
+"lng_terms_delete_warning" = "Warning, this will irreversibly delete your IMTT account along with all the data you store in the IMTT cloud.\n\nWe will provide a tool to download your data before June, 23 – so you may want to wait a little before deleting.";
 "lng_terms_delete_now" = "Delete now";
 "lng_terms_agree_to_proceed" = "Please agree and proceed to {bot}.";
 
@@ -3221,7 +3221,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_forward_change_recipient" = "Change recipient";
 "lng_forward_sender_names_removed" = "Sender names removed";
 
-"lng_passport_title" = "Teamgram passport";
+"lng_passport_title" = "IMTT passport";
 "lng_passport_request1" = "{bot} requests access to your personal data";
 "lng_passport_request2" = "to sign you up for their services";
 "lng_passport_create_password" = "Please create a password which will be used\nto encrypt your personal data.";
@@ -3322,10 +3322,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_postcode" = "Postcode";
 "lng_passport_translation" = "Translation";
 "lng_passport_use_existing" = "USE {existing}";
-"lng_passport_use_existing_phone" = "Use the same phone number as on Teamgram.";
+"lng_passport_use_existing_phone" = "Use the same phone number as on IMTT.";
 "lng_passport_new_phone" = "Or enter a new phone number";
 "lng_passport_new_phone_code" = "Note: You will receive a confirmation code on the phone number you provide.";
-"lng_passport_use_existing_email" = "Use the same email address as on Teamgram.";
+"lng_passport_use_existing_email" = "Use the same email address as on IMTT.";
 "lng_passport_new_email" = "Or enter a new email";
 "lng_passport_new_email_code" = "Note: You will receive a confirmation code to the email address you provide.";
 "lng_passport_confirm_phone" = "We've sent an SMS with a confirmation code to your phone {phone}.";
@@ -3345,21 +3345,21 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passport_success" = "Authorization successful!";
 "lng_passport_stop_sure" = "Are you sure you want to stop this authorization?";
 "lng_passport_stop" = "Stop";
-"lng_passport_restart_sure" = "An unexpected error has occurred. Perhaps some changes were made from a different Teamgram application. Would you like to restart this authorization?";
+"lng_passport_restart_sure" = "An unexpected error has occurred. Perhaps some changes were made from a different IMTT application. Would you like to restart this authorization?";
 "lng_passport_restart" = "Restart";
 "lng_passport_error_too_large" = "Sorry, this file is too large.";
 "lng_passport_error_bad_size" = "Sorry, this image has wrong dimensions.";
 "lng_passport_error_cant_read" = "Can't read this file. Please choose an image.";
 "lng_passport_bad_name" = "Please use latin characters only.";
 "lng_passport_wait_upload" = "Please wait while upload is finished.";
-"lng_passport_app_out_of_date" = "Sorry, your Teamgram app is out of date and can't handle this request. Please update Teamgram.";
+"lng_passport_app_out_of_date" = "Sorry, your IMTT app is out of date and can't handle this request. Please update IMTT.";
 
 "lng_export_title" = "Export Personal Data";
 "lng_export_progress_title" = "Exporting personal data";
 "lng_export_option_info" = "Account information";
 "lng_export_option_info_about" = "Your chosen screen name, username, phone number and profile pictures.";
 "lng_export_option_contacts" = "Contacts list";
-"lng_export_option_contacts_about" = "If you allow access, contacts are continuously synced with Teamgram. You can adjust this in Settings > Privacy & Security on mobile devices.";
+"lng_export_option_contacts_about" = "If you allow access, contacts are continuously synced with IMTT. You can adjust this in Settings > Privacy & Security on mobile devices.";
 "lng_export_option_sessions" = "Active sessions";
 "lng_export_option_sessions_about" = "We store this to display your connected devices in Settings > Privacy & Security > Active Sessions.";
 "lng_export_header_other" = "Other";
@@ -3399,7 +3399,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_state_chats_list" = "Processing chats...";
 "lng_export_state_chats" = "Chats";
 "lng_export_skip_file" = "Skip this file";
-"lng_export_progress" = "You can close this window now. Please don't quit Teamgram until the data export is completed.";
+"lng_export_progress" = "You can close this window now. Please don't quit IMTT until the data export is completed.";
 "lng_export_stop" = "Stop";
 "lng_export_sure_stop" = "Are you sure you want to stop exporting your data?\n\nIf you do, you'll need to start over.";
 "lng_export_about_done" = "Your data was successfully exported.";
@@ -3414,11 +3414,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_export_suggest_title" = "Data export ready";
 "lng_export_suggest_text" = "You can now download the data you requested. Start exporting data?";
 "lng_export_suggest_cancel" = "Not now";
-"lng_export_about_telegram" = "Here is all the data you requested. Remember: we don’t use your data for ad targeting, we don’t sell it to others, and we’re not part of any “family of companies.”\n\Teamgram only keeps the information it needs to function as a feature-rich cloud service – for example, your cloud chats so that you can access them from any devices without using third-party backups, or your contacts so that you can rely on your existing social graph when messaging people on Teamgram.\n\nCheck out Settings > Privacy & Security on Teamgram's mobile apps for relevant settings.";
-"lng_export_about_contacts" = "If you allow access, your contacts are continuously synced with Teamgram. Thanks to this, you can easily switch to Teamgram without losing your existing social graph – and connect with friends across all your devices. We use data about your contacts to let you know when they join Teamgram. We also use it to make sure that you see the names you have in your phone book instead of the screen names people choose for themselves.\n\nYou can disable contact syncing or delete your stored contacts in Settings > Privacy & Security on Teamgram's mobile apps.";
-"lng_export_about_frequent" = "This rating shows which people you are likelier to message frequently. Teamgram uses this data to populate the 'People' box at the top of the Search section. This rating is also calculated for inline bots so that the app can suggest the bots you are most likely to use in the attachment menu (or when you start a new message with \"@\").\n\nTo delete this data, go to Settings > Privacy & Security and disable 'Suggest Frequent Contacts' (requires Teamgram for iOS v.4.8.3 or Teamgram for Android v.4.8.10 or higher).";
+"lng_export_about_telegram" = "Here is all the data you requested. Remember: we don’t use your data for ad targeting, we don’t sell it to others, and we’re not part of any “family of companies.”\n\IMTT only keeps the information it needs to function as a feature-rich cloud service – for example, your cloud chats so that you can access them from any devices without using third-party backups, or your contacts so that you can rely on your existing social graph when messaging people on IMTT.\n\nCheck out Settings > Privacy & Security on IMTT's mobile apps for relevant settings.";
+"lng_export_about_contacts" = "If you allow access, your contacts are continuously synced with IMTT. Thanks to this, you can easily switch to IMTT without losing your existing social graph – and connect with friends across all your devices. We use data about your contacts to let you know when they join IMTT. We also use it to make sure that you see the names you have in your phone book instead of the screen names people choose for themselves.\n\nYou can disable contact syncing or delete your stored contacts in Settings > Privacy & Security on IMTT's mobile apps.";
+"lng_export_about_frequent" = "This rating shows which people you are likelier to message frequently. IMTT uses this data to populate the 'People' box at the top of the Search section. This rating is also calculated for inline bots so that the app can suggest the bots you are most likely to use in the attachment menu (or when you start a new message with \"@\").\n\nTo delete this data, go to Settings > Privacy & Security and disable 'Suggest Frequent Contacts' (requires IMTT for iOS v.4.8.3 or IMTT for Android v.4.8.10 or higher).";
 "lng_export_about_sessions" = "We store session info to display your connected devices in Settings > Privacy & Security > Active Sessions.";
-"lng_export_about_web_sessions" = "We store this to display the websites where you logged in using authentication via Teamgram. This information is shown in Settings > Privacy & Security > Active Sessions.";
+"lng_export_about_web_sessions" = "We store this to display the websites where you logged in using authentication via IMTT. This information is shown in Settings > Privacy & Security > Active Sessions.";
 "lng_export_about_chats" = "This page lists all chats from this export and where to look for their data.";
 "lng_export_about_left_chats" = "Below are the supergroups and channels from this export that you've left or where you were banned.\n\nNote that when you leave a channel or supergroup you've created, you have the option to either delete it, or simply leave (in case you want to rejoin later, or keep the community alive despite not being a member).";
 
@@ -3430,7 +3430,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_language_not_found" = "Sorry, this language pack doesn't exist.";
 "lng_language_already" = "You're already using this language pack. You can change your language back in Settings.";
 "lng_language_not_ready_title" = "Insufficient data";
-"lng_language_not_ready_about" = "Unfortunately, this custom language pack ({lang_name}) doesn't contain data for Teamgram Desktop. You can contribute to this language pack using the {link}.";
+"lng_language_not_ready_about" = "Unfortunately, this custom language pack ({lang_name}) doesn't contain data for IMTT Desktop. You can contribute to this language pack using the {link}.";
 "lng_language_not_ready_link" = "translations platform";
 
 "lng_translate_box_error" = "Translate failed.";
@@ -3494,8 +3494,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_outdated_title" = "PLEASE UPDATE YOUR OPERATING SYSTEM.";
 "lng_outdated_title_bits" = "PLEASE SWITCH TO 64 BIT OPERATING SYSTEM.";
-"lng_outdated_soon" = "Otherwise, Teamgram Desktop will stop updating on {date}.";
-"lng_outdated_now" = "So that Teamgram Desktop can update to newer versions.";
+"lng_outdated_soon" = "Otherwise, IMTT Desktop will stop updating on {date}.";
+"lng_outdated_now" = "So that IMTT Desktop can update to newer versions.";
 
 "lng_filters_all" = "All chats";
 "lng_filters_setup" = "Edit";
@@ -3580,12 +3580,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_sponsored_hide_ads" = "Hide";
 "lng_sponsored_title" = "What are sponsored messages?";
-"lng_sponsored_info_description1" = "Unlike other apps, Teamgram never uses your private data to target ads. Sponsored messages on Teamgram are based solely on the topic of the public channels in which they are shown. This means that no user data is mined or analyzed to display ads, and every user viewing a channel on Teamgram sees the same sponsored messages.\n\nUnlike other apps, Teamgram doesn't track whether you tapped on a sponsored message and doesn't profile you based on your activity. We also prevent external links in sponsored messages to ensure that third parties can’t spy on our users. We believe that everyone has the right to privacy, and technological platforms should respect that.\n\Teamgram offers a free and unlimited service to hundreds of millions of users, which involves significant server and traffic costs. In order to remain independent and stay true to its values, Teamgram developed a paid tool to promote messages with user privacy in mind. We welcome responsible advertisers at:";
-"lng_sponsored_info_description2" = "Sponsored Messages are currently in test mode. Once they are fully launched and allow Teamgram to cover its basic costs, we will start sharing ad revenue with the owners of public channels in which sponsored messages are displayed.\n\nOnline ads should no longer be synonymous with abuse of user privacy. Let us redefine how a tech company should operate – together.";
+"lng_sponsored_info_description1" = "Unlike other apps, IMTT never uses your private data to target ads. Sponsored messages on IMTT are based solely on the topic of the public channels in which they are shown. This means that no user data is mined or analyzed to display ads, and every user viewing a channel on IMTT sees the same sponsored messages.\n\nUnlike other apps, IMTT doesn't track whether you tapped on a sponsored message and doesn't profile you based on your activity. We also prevent external links in sponsored messages to ensure that third parties can’t spy on our users. We believe that everyone has the right to privacy, and technological platforms should respect that.\n\IMTT offers a free and unlimited service to hundreds of millions of users, which involves significant server and traffic costs. In order to remain independent and stay true to its values, IMTT developed a paid tool to promote messages with user privacy in mind. We welcome responsible advertisers at:";
+"lng_sponsored_info_description2" = "Sponsored Messages are currently in test mode. Once they are fully launched and allow IMTT to cover its basic costs, we will start sharing ad revenue with the owners of public channels in which sponsored messages are displayed.\n\nOnline ads should no longer be synonymous with abuse of user privacy. Let us redefine how a tech company should operate – together.";
 "lng_sponsored_info_menu" = "About this ad";
 "lng_sponsored_info_submenu" = "Advertiser: {text}";
 
-"lng_telegram_features_url" = "https://teamgram.me/TeamgramTips";
+"lng_telegram_features_url" = "https://im.tt/IMTTTips";
 
 "lng_ringtones_box_title" = "Notification Sound";
 "lng_ringtones_box_cloud_subtitle" = "Choose your tone";
@@ -3728,7 +3728,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mac_menu_add_contact" = "Add Contact";
 "lng_mac_menu_new_group" = "New Group";
 "lng_mac_menu_new_channel" = "New Channel";
-"lng_mac_menu_show" = "Show Teamgram";
+"lng_mac_menu_show" = "Show IMTT";
 "lng_mac_menu_emoji_and_symbols" = "Emoji & Symbols";
 
 "lng_mac_menu_player_pause" = "Pause";

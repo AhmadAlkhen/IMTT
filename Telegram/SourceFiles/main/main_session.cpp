@@ -58,7 +58,7 @@ constexpr auto kTmpPasswordReserveTime = TimeId(10);
 [[nodiscard]] QString ValidatedInternalLinksDomain(
 		not_null<const Session*> session) {
 	// This domain should start with 'http[s]://' and end with '/'.
-	// Like 'https://telegram.me/' or 'https://teamgram.me/'.
+	// Like 'https://telegram.me/' or 'https://im.tt/'.
 	const auto &domain = session->serverConfig().internalLinksDomain;
 	const auto prefixes = {
 		u"https://"_q,

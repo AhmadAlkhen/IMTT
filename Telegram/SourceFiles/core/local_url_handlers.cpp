@@ -936,7 +936,7 @@ QString TryConvertUrlToLocal(QString url) {
 		if (name.size() > 1 && name != "www") {
 			const auto result = TryConvertUrlToLocal(
 				subdomainMatch->captured(1)
-				+ "teamgram.me/"
+				+ "im.tt/"
 				+ name
 				+ subdomainMatch->captured(3)
 				+ subdomainMatch->captured(4));
@@ -945,7 +945,7 @@ QString TryConvertUrlToLocal(QString url) {
 				: url;
 		}
 	}
-	auto telegramMeMatch = regex_match(u"^(https?://)?(www\\.)?(teamgram\\.(me|dog)|teamgram\\.me)/(.+)$"_q, url, matchOptions);
+	auto telegramMeMatch = regex_match(u"^(https?://)?(www\\.)?(im\\.(tt|dog)|im\\.tt)/(.+)$"_q, url, matchOptions);
 	if (telegramMeMatch) {
 		const auto query = telegramMeMatch->capturedView(5);
 		if (const auto phoneMatch = regex_match(u"^\\+([0-9]+)(\\?|$)"_q, query, matchOptions)) {
@@ -965,7 +965,7 @@ QString TryConvertUrlToLocal(QString url) {
 			return u"tg2://confirmphone?"_q + confirmPhoneMatch->captured(1);
 		} else if (const auto ivMatch = regex_match(u"^iv/?\\?(.+)(#|$)"_q, query, matchOptions)) {
 			//
-			// We need to show our t.me page, not the url directly.
+			// We need to show our im.tt page, not the url directly.
 			//
 			//auto params = url_parse_params(ivMatch->captured(1), UrlParamNameTransform::ToLower);
 			//auto previewedUrl = params.value(u"url"_q);

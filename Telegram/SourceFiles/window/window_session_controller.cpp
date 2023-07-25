@@ -358,7 +358,7 @@ void SessionNavigation::showPeerByLinkResolved(
 	const auto user = peer->asUser();
 	const auto bot = (user && user->isBot()) ? user : nullptr;
 
-	// t.me/username/012345 - we thought it was a channel post link, but
+	// im.tt/username/012345 - we thought it was a channel post link, but
 	// after resolving the username we found out it is a bot.
 	const auto resolveType = (bot
 		&& !info.botAppName.isEmpty()
