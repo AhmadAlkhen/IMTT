@@ -469,6 +469,8 @@ object_ptr<Ui::RpWidget> DetailsFiller::setupInfo() {
 			copyUsername->setClickedCallback([=] {
 				const auto link = user->session().createInternalLinkFull(
 					user->userName());
+				// const auto customLLink= "https://im.tt/"+user->userName();
+
 				if (!link.isEmpty()) {
 					QGuiApplication::clipboard()->setText(link);
 					Ui::Toast::Show(
@@ -494,7 +496,9 @@ object_ptr<Ui::RpWidget> DetailsFiller::setupInfo() {
 			_peer,
 			true
 		) | rpl::map([=](const QString &link) {
-			return link.isEmpty()
+			//  QString modifiedLink = link;
+
+			 return link.isEmpty()
 				? TextWithEntities()
 				: Ui::Text::Link(
 					(link.startsWith(u"https://"_q)

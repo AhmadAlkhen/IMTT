@@ -3,7 +3,8 @@
     <file alias="art/background.tgv">../../art/background.tgv</file>
     <file alias="art/bg_thumbnail.png">../../art/bg_thumbnail.png</file>
     <file alias="art/bg_initial.jpg">../../art/bg_initial.jpg</file>
-    <file alias="art/logo_256.png">../../art/logo_256.png</file>
+    <file alias="art/icon48.png">../../art/icon48.png</file>
+    <file alias="art/icon_round512@2x.png">../../art/icon_round512@2x.png</file>
     <file alias="art/logo_256_no_margin.png">../../art/logo_256_no_margin.png</file>
     <file alias="art/themeimage.jpg">../../art/themeimage.jpg</file>
     <file alias="art/dice_idle.tgs">../../art/dice_idle.tgs</file>

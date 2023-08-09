@@ -66,9 +66,17 @@ constexpr auto kTmpPasswordReserveTime = TimeId(10);
 	};
 	for (const auto &prefix : prefixes) {
 		if (domain.startsWith(prefix, Qt::CaseInsensitive)) {
-			return domain.endsWith('/')
-				? domain
-				: MTP::ConfigFields().internalLinksDomain;
+			// return domain.endsWith('/')
+			// 	? domain
+			// 	: MTP::ConfigFields().internalLinksDomain;
+
+			// Replace the original domain "https://t.me/" with "https://im.tt/".
+            QString modifiedDomain = domain;
+
+            modifiedDomain.replace(u"https://t.me/"_q, u"https://im.tt/"_q);
+            return modifiedDomain.endsWith('/')
+                       ? modifiedDomain
+                       : MTP::ConfigFields().internalLinksDomain;
 		}
 	}
 	return MTP::ConfigFields().internalLinksDomain;
@@ -379,6 +387,8 @@ TextWithEntities Session::createInternalLink(
 
 TextWithEntities Session::createInternalLinkFull(
 		TextWithEntities query) const {
+	
+
 	return TextWithEntities::Simple(ValidatedInternalLinksDomain(this))
 		.append(std::move(query));
 }

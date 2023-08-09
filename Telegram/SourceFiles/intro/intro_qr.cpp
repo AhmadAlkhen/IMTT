@@ -28,6 +28,17 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "qr/qr_generate.h"
 #include "styles/style_intro.h"
 
+#include <QImage>
+#include <QImageReader>
+#include <QPainter>
+
+
+
+
+
+// #include "../tdesktop/Telegram/Resources/art/icon32.png"
+
+
 namespace Intro {
 namespace details {
 namespace {
@@ -422,23 +433,63 @@ void QrWidget::cancelled() {
 	api().request(base::take(_requestId)).cancel();
 }
 
+// QImage TelegramLogoImage() {
+// 	const auto size = QSize(st::introQrCenterSize, st::introQrCenterSize);
+// 	auto result = QImage(
+// 		size * style::DevicePixelRatio(),
+// 		QImage::Format_ARGB32_Premultiplied);
+// 	result.fill(Qt::transparent);
+// 	result.setDevicePixelRatio(style::DevicePixelRatio());
+// 	{
+// 		auto p = QPainter(&result);
+// 		auto hq = PainterHighQualityEnabler(p);
+// 		p.setBrush(QrActiveColor());
+// 		p.setPen(Qt::NoPen);
+// 		p.drawEllipse(QRect(QPoint(), size));
+// 		st::introQrPlane.paintInCenter(p, QRect(QPoint(), size));
+// 	}
+// 	return result;
+// }
+// QImage TelegramLogoImage() {
+//     const auto size = QSize(st::introQrCenterSize, st::introQrCenterSize);
+//     auto result = QImage(size * style::DevicePixelRatio(), QImage::Format_ARGB32_Premultiplied);
+//     // result.fill(Qt::transparent);
+//     // result.setDevicePixelRatio(style::DevicePixelRatio());
+
+//     // Custom image path (modify this with your image path)
+//     // QString imagePath = "BuildPath/tdesktop/Telegram/Resources/art/icon32.png";
+//     QString imagePath = "../tdesktop/Telegram/Resources/art/icon32.png";
+
+//     QImage customImage(imagePath);
+
+//     {
+//         auto p = QPainter(&result);
+//         // auto hq = PainterHighQualityEnabler(p);
+//         // p.setBrush(QrActiveColor());
+//         // p.setPen(Qt::NoPen);
+//         // p.drawEllipse(QRect(QPoint(), size));
+
+//         // Calculate the position and size of the custom image manually
+//         int imageSize = size.width() - 20; // Adjust this value as needed
+//         int imageX = (size.width() - imageSize) / 2;
+//         int imageY = (size.height() - imageSize) / 2;
+//         QRect centerRect(imageX, imageY, imageSize, imageSize);
+//         p.drawImage(centerRect, customImage);
+//     }
+//     return result;
+// }
+
+
+
 QImage TelegramLogoImage() {
-	const auto size = QSize(st::introQrCenterSize, st::introQrCenterSize);
-	auto result = QImage(
-		size * style::DevicePixelRatio(),
-		QImage::Format_ARGB32_Premultiplied);
-	result.fill(Qt::transparent);
-	result.setDevicePixelRatio(style::DevicePixelRatio());
-	{
-		auto p = QPainter(&result);
-		auto hq = PainterHighQualityEnabler(p);
-		p.setBrush(QrActiveColor());
-		p.setPen(Qt::NoPen);
-		p.drawEllipse(QRect(QPoint(), size));
-		st::introQrPlane.paintInCenter(p, QRect(QPoint(), size));
-	}
+	static const auto result = QImage(u":/gui/art/icon48.png"_q);
+	if (result.isNull()) {
+        qDebug() << "Error: Unable to load image from resource";
+        return result;
+    }
 	return result;
 }
+
 
 } // namespace details
 } // namespace Intro
